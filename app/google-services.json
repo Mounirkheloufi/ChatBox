@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "329485591655",
+    "project_id": "chatbox-bf81b",
+    "storage_bucket": "chatbox-bf81b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329485591655:android:634753991bd24b5f6f60c2",
+        "android_client_info": {
+          "package_name": "com.example.chatbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329485591655-c85rugkd4838idd1in9g7v9jkjfjqjg6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatbox",
+            "certificate_hash": "28f16b6688b3aea6708379cb49c0536577d4d84f"
+          }
+        },
+        {
+          "client_id": "329485591655-p252gevet7oh7109sjevuotb4vv99ilv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK5sxlWY7ujWGE_2M2HlwTyiL7wQqUN6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329485591655-p252gevet7oh7109sjevuotb4vv99ilv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
